@@ -1,7 +1,7 @@
 ---
 layout: 'default'
-title: 'Coming Soon Bootstrap 4 Template Demo'
-description: 'Demo of A Free Coming Soon Bootstrap 4 Template by TemplateFlip.com.'
+title: 'Tweet India'
+description: 'Tweet India'
 ---
 
 <div class="site-wrapper">
@@ -25,7 +25,7 @@ description: 'Demo of A Free Coming Soon Bootstrap 4 Template by TemplateFlip.co
       </div>
       <div class="mastfoot">
         <div class="inner">
-          <p>&copy; Your Company. Design: <a href="https://templateflip.com/" target="_blank">TemplateFlip</a>.</p>
+          <p>&copy; Tweet India.</p>
         </div>
       </div>
       <div class="modal fade" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="subscribeModalLabel" aria-hidden="true">
